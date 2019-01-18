@@ -1,0 +1,15 @@
+input#pwd{
+    margin-left:30%;
+    margin-bottom:2%;
+    width:40%;
+}
+
+input#user{
+    margin-left:30%;
+    margin-bottom:1%;
+    width:40%;
+}
+
+button#submit{
+    margin-left:45%;
+}
